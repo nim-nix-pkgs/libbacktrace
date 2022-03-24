@@ -42,11 +42,11 @@
     "src-libbacktrace-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1647998068,
-        "narHash": "sha256-t6jNa5aG3Lw+YAGBrUwQ8azmmGMFkLPhfBVW2iWveSQ=",
+        "lastModified": 1648118395,
+        "narHash": "sha256-5ZcLQrPq0j049PEUWNZw5HSfvI77pW50nLJLcnCOQ0c=",
         "owner": "status-im",
         "repo": "nim-libbacktrace",
-        "rev": "b457f9fd6ecb07152927aafb5ad3501cf3eca979",
+        "rev": "2ea147a71c4c05d64fdff5e7b8d8990eb5821399",
         "type": "github"
       },
       "original": {
