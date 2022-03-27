@@ -11,6 +11,7 @@
   inputs.src-libbacktrace-v0_0_8.ref   = "refs/tags/v0.0.8";
   inputs.src-libbacktrace-v0_0_8.owner = "status-im";
   inputs.src-libbacktrace-v0_0_8.repo  = "nim-libbacktrace";
+  inputs.src-libbacktrace-v0_0_8.dir   = "";
   inputs.src-libbacktrace-v0_0_8.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
