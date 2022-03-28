@@ -11,7 +11,6 @@
   inputs.src-libbacktrace-master.ref   = "refs/heads/master";
   inputs.src-libbacktrace-master.owner = "status-im";
   inputs.src-libbacktrace-master.repo  = "nim-libbacktrace";
-  inputs.src-libbacktrace-master.dir   = "";
   inputs.src-libbacktrace-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
