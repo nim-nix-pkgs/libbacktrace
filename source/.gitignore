@@ -1,0 +1,15 @@
+nimcache
+/build
+/install
+
+# Ignore dynamic, static libs and libtool archive files
+*.o
+*.so
+*.dylib
+*.a
+*.la
+*.exe
+*.dll
+
+nimble.develop
+nimble.paths
