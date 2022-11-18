@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334560,
-        "narHash": "sha256-IScA9JT+H62ypT3Zu0N6Mihn3VbJhVakiRdSC33eD7Q=",
+        "lastModified": 1668748838,
+        "narHash": "sha256-JfewyI9z6TnfuQorpzvpVBQR91PlFTReGc/Jh96Q04E=",
         "owner": "nim-nix-pkgs",
         "repo": "libbacktrace",
-        "rev": "de32856236033e13e7c93000f54c0e8eb8b3b545",
+        "rev": "06832da09904b08e509af60344a24a1f03bc11d5",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
       },
       "locked": {
         "dir": "v0_0_2",
-        "lastModified": 1667334560,
-        "narHash": "sha256-IScA9JT+H62ypT3Zu0N6Mihn3VbJhVakiRdSC33eD7Q=",
+        "lastModified": 1668748838,
+        "narHash": "sha256-JfewyI9z6TnfuQorpzvpVBQR91PlFTReGc/Jh96Q04E=",
         "owner": "nim-nix-pkgs",
         "repo": "libbacktrace",
-        "rev": "de32856236033e13e7c93000f54c0e8eb8b3b545",
+        "rev": "06832da09904b08e509af60344a24a1f03bc11d5",
         "type": "github"
       },
       "original": {
@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "v0_0_3",
-        "lastModified": 1667334560,
-        "narHash": "sha256-IScA9JT+H62ypT3Zu0N6Mihn3VbJhVakiRdSC33eD7Q=",
+        "lastModified": 1668748838,
+        "narHash": "sha256-JfewyI9z6TnfuQorpzvpVBQR91PlFTReGc/Jh96Q04E=",
         "owner": "nim-nix-pkgs",
         "repo": "libbacktrace",
-        "rev": "de32856236033e13e7c93000f54c0e8eb8b3b545",
+        "rev": "06832da09904b08e509af60344a24a1f03bc11d5",
         "type": "github"
       },
       "original": {
@@ -263,11 +263,11 @@
       },
       "locked": {
         "dir": "v0_0_4",
-        "lastModified": 1667334560,
-        "narHash": "sha256-IScA9JT+H62ypT3Zu0N6Mihn3VbJhVakiRdSC33eD7Q=",
+        "lastModified": 1668748838,
+        "narHash": "sha256-JfewyI9z6TnfuQorpzvpVBQR91PlFTReGc/Jh96Q04E=",
         "owner": "nim-nix-pkgs",
         "repo": "libbacktrace",
-        "rev": "de32856236033e13e7c93000f54c0e8eb8b3b545",
+        "rev": "06832da09904b08e509af60344a24a1f03bc11d5",
         "type": "github"
       },
       "original": {
@@ -290,11 +290,11 @@
       },
       "locked": {
         "dir": "v0_0_5",
-        "lastModified": 1667334560,
-        "narHash": "sha256-IScA9JT+H62ypT3Zu0N6Mihn3VbJhVakiRdSC33eD7Q=",
+        "lastModified": 1668748838,
+        "narHash": "sha256-JfewyI9z6TnfuQorpzvpVBQR91PlFTReGc/Jh96Q04E=",
         "owner": "nim-nix-pkgs",
         "repo": "libbacktrace",
-        "rev": "de32856236033e13e7c93000f54c0e8eb8b3b545",
+        "rev": "06832da09904b08e509af60344a24a1f03bc11d5",
         "type": "github"
       },
       "original": {
@@ -317,11 +317,11 @@
       },
       "locked": {
         "dir": "v0_0_6",
-        "lastModified": 1667334560,
-        "narHash": "sha256-IScA9JT+H62ypT3Zu0N6Mihn3VbJhVakiRdSC33eD7Q=",
+        "lastModified": 1668748838,
+        "narHash": "sha256-JfewyI9z6TnfuQorpzvpVBQR91PlFTReGc/Jh96Q04E=",
         "owner": "nim-nix-pkgs",
         "repo": "libbacktrace",
-        "rev": "de32856236033e13e7c93000f54c0e8eb8b3b545",
+        "rev": "06832da09904b08e509af60344a24a1f03bc11d5",
         "type": "github"
       },
       "original": {
@@ -344,11 +344,11 @@
       },
       "locked": {
         "dir": "v0_0_7",
-        "lastModified": 1667334560,
-        "narHash": "sha256-IScA9JT+H62ypT3Zu0N6Mihn3VbJhVakiRdSC33eD7Q=",
+        "lastModified": 1668748838,
+        "narHash": "sha256-JfewyI9z6TnfuQorpzvpVBQR91PlFTReGc/Jh96Q04E=",
         "owner": "nim-nix-pkgs",
         "repo": "libbacktrace",
-        "rev": "de32856236033e13e7c93000f54c0e8eb8b3b545",
+        "rev": "06832da09904b08e509af60344a24a1f03bc11d5",
         "type": "github"
       },
       "original": {
@@ -371,11 +371,11 @@
       },
       "locked": {
         "dir": "v0_0_8",
-        "lastModified": 1667334560,
-        "narHash": "sha256-IScA9JT+H62ypT3Zu0N6Mihn3VbJhVakiRdSC33eD7Q=",
+        "lastModified": 1668748838,
+        "narHash": "sha256-JfewyI9z6TnfuQorpzvpVBQR91PlFTReGc/Jh96Q04E=",
         "owner": "nim-nix-pkgs",
         "repo": "libbacktrace",
-        "rev": "de32856236033e13e7c93000f54c0e8eb8b3b545",
+        "rev": "06832da09904b08e509af60344a24a1f03bc11d5",
         "type": "github"
       },
       "original": {
